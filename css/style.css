@@ -1471,3 +1471,9 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+.whatsapp-chat{
+  bottom: 05% !important;
+  left: 05% !important ;
+  position: fixed;
+  z-index: 1;
+}
